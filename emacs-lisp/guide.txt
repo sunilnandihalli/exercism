@@ -1,0 +1,2 @@
+https://github.com/chrisdone/elisp-guide
+http://ergoemacs.org/emacs/elisp_hash_table.html
